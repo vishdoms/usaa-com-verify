@@ -1,4 +1,4 @@
-Verify Your Identity Securely at usaa.com/verify
+Steps to Verify Your USAA Identity Using usaa.com/verify
 ================================================
 
 .. meta::
