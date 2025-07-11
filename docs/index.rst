@@ -2,6 +2,8 @@ Steps to Verify Your USAA Identity Using usaa.com/verify
 ================================================
 
 .. meta::
+   :msvalidate.01: BFF40CA8D143BAFDF58796E4E025829B
+   :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
    :description: Confirm your identity at usaa.com/verify. Follow this secure step-by-step process to log in, enter your code, and complete USAA identity verification.
 
 .. raw:: html
